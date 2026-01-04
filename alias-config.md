@@ -26,3 +26,4 @@
 
 > [!IMPORTANT]
 <i>Alias para otimizar trabalhos em comandos Linux</i>
+Criar Alias no arquivo : $ vim ~/.bashrc (atualizar aquivo após alteração com source + contexto)
