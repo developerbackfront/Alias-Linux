@@ -1,5 +1,3 @@
-> [!IMPORTANT]
-<i>Alias para otimizar trabalhos em comandos Linux</i>
 
 ### Administração (sistemas)
 
@@ -24,4 +22,7 @@
 <p>alias chkspeed='wget http://speedtest.tele2.net/1GB.zip -O /dev/null'</p>
 <p>alias clearswap='sudo swapoff -a && sudo swapon -a'</p>
 <p>alias timestamp='date +%Y-%m-%dT%H-%M-%S'</p>
-git 
+
+
+> [!IMPORTANT]
+<i>Alias para otimizar trabalhos em comandos Linux</i>
